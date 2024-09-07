@@ -1,0 +1,16 @@
+{
+  "name": "meowbot",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "events": "^3.3.0",
+    "mineflayer": "^4.20.1",
+    "typed-emitter": "^2.1.0"
+  }
+}
